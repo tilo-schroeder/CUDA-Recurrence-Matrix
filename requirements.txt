@@ -4,3 +4,4 @@ ninja
 wurlitzer
 numpy
 pathlib
+matplotlib

@@ -1,8 +1,8 @@
 from pathlib import Path
 import numpy as np
 import torch
-from torchvision.io import write_png
 from torch.utils.cpp_extension import load_inline
+import matplotlib.pyplot as plt
 
 
 def compile_extension(name, functions):
