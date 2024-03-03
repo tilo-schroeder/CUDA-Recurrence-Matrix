@@ -1,0 +1,6 @@
+torch
+torchvision
+ninja
+wurlitzer
+numpy
+pathlib
